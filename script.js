@@ -195,7 +195,7 @@ if (sendWhatsAppBtn) {
     sendWhatsAppBtn.addEventListener('click', () => {
         // Numéro WhatsApp (remplacez par votre numéro avec l'indicatif pays sans +)
         // Format: 226XXXXXXXX (pour le Burkina Faso)
-        const whatsappNumber = '226XXXXXXXX'; // À REMPLACER par votre vrai numéro
+        const whatsappNumber = '22674453694'; // Votre numéro WhatsApp
         
         const message = encodeURIComponent(
             `Bonjour Imaane,\n\n` +
