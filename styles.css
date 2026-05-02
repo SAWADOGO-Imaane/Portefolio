@@ -1,16 +1,16 @@
 /* ===== Variables CSS ===== */
 :root {
-    --primary-color: #6B7280;
+    --primary-color: #D97DB5;
     --secondary-color: #D97DB5;
-    --accent-color: #5A6370;
+    --accent-color: #D97DB5;
     --text-color: #E5E7EB;
     --text-light: #9CA3AF;
     --bg-color: #111827;
     --bg-secondary: #1F2937;
     --border-color: #2D3748;
     --success-color: #D97DB5;
-    --shadow: 0 4px 6px rgba(107, 114, 128, 0.1);
-    --shadow-lg: 0 10px 15px rgba(107, 114, 128, 0.15);
+    --shadow: 0 4px 6px rgba(217, 125, 181, 0.1);
+    --shadow-lg: 0 10px 15px rgba(217, 125, 181, 0.15);
 }
 
 /* ===== Reset & Base ===== */
@@ -58,7 +58,7 @@ section {
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background: linear-gradient(to right, #6B7280, #D97DB5);
+    background: #D97DB5;
     border-radius: 2px;
 }
 
@@ -146,7 +146,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, #6B7280 0%, #D97DB5 50%, #5A6370 100%);
+    background: linear-gradient(135deg, #D97DB5 0%, #D97DB5 50%, #D97DB5 100%);
     color: white;
     margin-top: 0;
     padding-top: 80px;
@@ -570,7 +570,7 @@ section {
     position: relative;
     height: 250px;
     overflow: hidden;
-    background: linear-gradient(135deg, #6B7280 0%, #D97DB5 100%);
+    background: linear-gradient(135deg, #D97DB5 0%, #D97DB5 100%);
 }
 
 .project-image img {
