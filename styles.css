@@ -5,9 +5,9 @@
     --accent-color: #D97DB5;
     --text-color: #E5E7EB;
     --text-light: #9CA3AF;
-    --bg-color: #B03D6E;
-    --bg-secondary: #D97DB5;
-    --border-color: #8B3555;
+    --bg-color: #111827;
+    --bg-secondary: #1F2937;
+    --border-color: #2D3748;
     --success-color: #D97DB5;
     --shadow: 0 4px 6px rgba(217, 125, 181, 0.1);
     --shadow-lg: 0 10px 15px rgba(217, 125, 181, 0.15);
@@ -67,7 +67,7 @@ section {
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(176, 61, 110, 0.95);
+    background: rgba(17, 24, 39, 0.95);
     backdrop-filter: blur(10px);
     box-shadow: var(--shadow);
     z-index: 1000;
@@ -838,7 +838,7 @@ section {
 }
 
 .certificate-header {
-    background: linear-gradient(135deg, #B03D6E 0%, #D97DB5 100%);
+    background: linear-gradient(135deg, #6B7280 0%, #D97DB5 100%);
     padding: 40px;
     text-align: center;
     font-size: 3rem;
