@@ -892,7 +892,7 @@ section {
 
 /* ===== Contact Section ===== */
 .contact {
-    background: #6B3654;
+    background: var(--bg-color);
     position: relative;
     overflow: hidden;
 }
@@ -1169,7 +1169,7 @@ section {
 
 /* ===== Footer ===== */
 .footer {
-    background: var(--text-color);
+    background: #6B3654;
     color: white;
     padding: 30px 0;
     text-align: center;
