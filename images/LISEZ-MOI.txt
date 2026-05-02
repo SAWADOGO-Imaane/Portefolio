@@ -1,0 +1,57 @@
+📸 DOSSIER IMAGES
+
+Ce dossier est destiné à contenir toutes les images de votre portfolio.
+
+Images nécessaires :
+====================
+
+1. profile.jpg
+   - Votre photo de profil professionnelle
+   - Dimensions recommandées : 400x400 pixels
+   - Format : JPG ou PNG
+   - Fond uni ou flou recommandé
+
+2. project1.jpg à project6.jpg
+   - Captures d'écran ou illustrations de vos projets
+   - Dimensions recommandées : 800x600 pixels (ou 16:9)
+   - Format : JPG ou PNG
+   - Qualité : Moyenne à haute (optimisée pour le web)
+
+Conseils pour les images :
+===========================
+
+✅ Utilisez des images de haute qualité
+✅ Compressez vos images pour un chargement rapide
+   (Outils : TinyPNG, Squoosh, ImageOptim)
+✅ Utilisez des noms de fichiers descriptifs
+✅ Gardez un ratio d'aspect cohérent pour les projets
+✅ Privilégiez le format JPG pour les photos
+✅ Privilégiez le format PNG pour les logos/illustrations
+
+Outils de compression recommandés :
+===================================
+
+- TinyPNG : https://tinypng.com/
+- Squoosh : https://squoosh.app/
+- ImageOptim : https://imageoptim.com/ (Mac)
+
+Sources d'images temporaires (si vous n'avez pas encore vos images) :
+=====================================================================
+
+- Unsplash : https://unsplash.com/
+- Pexels : https://www.pexels.com/
+- Pixabay : https://pixabay.com/
+- Lorem Picsum : https://picsum.photos/ (placeholders)
+
+Pour les projets sans image :
+==============================
+
+Vous pouvez temporairement utiliser des placeholders :
+- https://placeholder.com/
+- https://dummyimage.com/
+- https://placehold.co/
+
+Exemple d'URL placeholder :
+https://placehold.co/800x600/2563eb/ffffff?text=Mon+Projet
+
+Remplacez ensuite par vos vraies captures d'écran !
