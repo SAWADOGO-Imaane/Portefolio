@@ -892,7 +892,7 @@ section {
 
 /* ===== Contact Section ===== */
 .contact {
-    background: var(--bg-color);
+    background: #6B3654;
     position: relative;
     overflow: hidden;
 }
